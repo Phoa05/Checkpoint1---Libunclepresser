@@ -1,7 +1,7 @@
 # Relatório de Projeto - LIB UNCLE PRESSER - Compressão de Dados Gênicos
 
 
-**Grupo:** Elite Jobs  
+**Grupo:** Nexos  
 **Integrantes:**
 - Anna Yagyu - RM550360
 - Breno Silva - RM99275
