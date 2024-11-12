@@ -19,8 +19,8 @@ import java.util.Map;
 public class App {
 
     public static void main(String[] args) {
-        String inputPath = "C:\\Users\\pedro\\Desktop\\Fiap\\DDD - Java\\Checkpoint1_Libunclepresser\\src\\input\\input1.txt";
-        String outputPath = "C:\\Users\\pedro\\Desktop\\Fiap\\DDD - Java\\Checkpoint1_Libunclepresser\\src\\output\\OUTPUT1.TXT";
+        String inputPath = "src\\input\\input1.txt";
+        String outputPath = "src\\output\\OUTPUT1.TXT";
 
         try {
             String inputData = readInputFile(inputPath);
